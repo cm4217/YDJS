@@ -12,7 +12,7 @@
   <Description DefaultValue="按药名/CAS/UNII 查询索引元数据并写入选区。非法定专论全文。"/>
   <IconUrl DefaultValue="https://localhost:3000/templates/addin-icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://localhost:3000/templates/addin-icon-64.png"/>
-  <SupportUrl DefaultValue="https://github.com/cm4217/CM"/>
+  <SupportUrl DefaultValue="https://github.com/cm4217/YDJS"/>
   <AppDomains>
     <AppDomain>https://localhost:3000</AppDomain>
   </AppDomains>
@@ -71,7 +71,7 @@
         <bt:Image id="Icon.80" DefaultValue="https://localhost:3000/templates/addin-icon-64.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://github.com/cm4217/CM/blob/main/docs/excel-integration.md"/>
+        <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://github.com/cm4217/YDJS/blob/main/docs/excel-integration.md"/>
         <bt:Url id="Commands.Url" DefaultValue="https://localhost:3000/excel-addin/commands.html"/>
         <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/excel-addin/taskpane.html"/>
       </bt:Urls>

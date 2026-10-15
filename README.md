@@ -6,10 +6,10 @@
 
 ## 快速开始
 
-仓库：https://github.com/cm4217/CM
+仓库：https://github.com/cm4217/YDJS
 
 ```bash
-git clone https://github.com/cm4217/CM.git
+git clone https://github.com/cm4217/YDJS.git
 cd CM
 npm install
 npm run dev
@@ -57,7 +57,7 @@ Next.js 14 · fuse.js · pinyin-pro · Ketcher 3.7
 npm run build | sync:rs | fetch:alerts
 ## deploy
 ## 部署上线
-Vercel Import cm4217/CM Next.js build
+Vercel Import cm4217/YDJS Next.js build
 Optional LLM keys; Domains
 Meilisearch optional via docker compose + MEILI_HOST; offline alerts seed
 
@@ -142,7 +142,7 @@ See docs/excel-integration.md and /tools pages.
 2. Webhook：关注摘要通用 JSON 与钉钉 markdown（localStorage；可选加签；关键词可用「关注摘要」）
 3. /tools/bookmarklet 书签：复制药名打开 ChP/USP/EP
 4. /api/lookup 与 /api/lookup.csv；/tools/sheets；docs/excel-integration.md
-5. Vercel：Import GitHub cm4217/CM；未登录 CLI 则网页部署；勿虚构公开 URL
+5. Vercel：Import GitHub cm4217/YDJS；未登录 CLI 则网页部署；勿虚构公开 URL
 
 导航新增「工具」。版权姿态不变（仅元数据索引）。
 
